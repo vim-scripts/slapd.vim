@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4127
+
+Syntax highlighting for OpenLDAP configuration file. This syntax supports databases and daemon configuration, tree access directives and schema definition, that is, most of the things required in OpenLDAP administration.
+Note that this script is intended for monolithic slapd.conf, not for config stored in LDAP tree. The latter one is to be edited with LDAP client, not with text editor.
+
